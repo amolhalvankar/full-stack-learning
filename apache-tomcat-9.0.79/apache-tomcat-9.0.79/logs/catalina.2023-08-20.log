@@ -1,0 +1,84 @@
+20-Aug-2023 09:37:56.093 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.79
+20-Aug-2023 09:37:56.096 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 8 2023 20:41:26 UTC
+20-Aug-2023 09:37:56.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.79.0
+20-Aug-2023 09:37:56.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Aug-2023 09:37:56.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Aug-2023 09:37:56.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Aug-2023 09:37:56.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-9.0.4
+20-Aug-2023 09:37:56.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           9.0.4+11
+20-Aug-2023 09:37:56.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Aug-2023 09:37:56.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79
+20-Aug-2023 09:37:56.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79
+20-Aug-2023 09:37:56.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Aug-2023 09:37:56.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Aug-2023 09:37:56.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+20-Aug-2023 09:37:56.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+20-Aug-2023 09:37:56.118 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Aug-2023 09:37:56.118 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\conf\logging.properties
+20-Aug-2023 09:37:56.119 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Aug-2023 09:37:56.120 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Aug-2023 09:37:56.120 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Aug-2023 09:37:56.121 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Aug-2023 09:37:56.121 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79
+20-Aug-2023 09:37:56.122 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79
+20-Aug-2023 09:37:56.122 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\temp
+20-Aug-2023 09:37:56.131 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-9.0.4\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Amol\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Amol\AppData\Local\Programs\Python\Python311\;C:\db_home\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-19\bin;C:\Program Files\mingw\bin;C:\Program Files\GitHub CLI\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Users\Amol\anaconda3;C:\Users\Amol\anaconda3\Library\mingw-w64\bin;C:\Users\Amol\anaconda3\Library\usr\bin;C:\Users\Amol\anaconda3\Library\bin;C:\Users\Amol\anaconda3\Scripts;C:\Users\Amol\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm 2022.3.3\bin;;C:\Users\Amol\AppData\Roaming\npm;C:\Users\Amol\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Java\jdk-9.0.4\bin;;.]
+20-Aug-2023 09:37:56.432 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Aug-2023 09:37:56.486 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [610] milliseconds
+20-Aug-2023 09:37:56.552 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Aug-2023 09:37:56.552 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.79]
+20-Aug-2023 09:37:56.562 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\docs]
+20-Aug-2023 09:37:57.085 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [175] milliseconds.
+20-Aug-2023 09:37:57.111 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\docs] has finished in [549] ms
+20-Aug-2023 09:37:57.111 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\examples]
+20-Aug-2023 09:37:58.000 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\examples] has finished in [889] ms
+20-Aug-2023 09:37:58.001 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\host-manager]
+20-Aug-2023 09:37:58.040 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\host-manager] has finished in [39] ms
+20-Aug-2023 09:37:58.040 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\manager]
+20-Aug-2023 09:37:58.073 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\manager] has finished in [32] ms
+20-Aug-2023 09:37:58.073 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\ROOT]
+20-Aug-2023 09:37:58.093 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\ROOT] has finished in [19] ms
+20-Aug-2023 09:37:58.096 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Aug-2023 09:37:58.219 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1731] milliseconds
+20-Aug-2023 09:48:36.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.79
+20-Aug-2023 09:48:36.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 8 2023 20:41:26 UTC
+20-Aug-2023 09:48:36.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.79.0
+20-Aug-2023 09:48:36.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Aug-2023 09:48:36.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Aug-2023 09:48:36.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Aug-2023 09:48:36.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-9.0.4
+20-Aug-2023 09:48:36.307 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           9.0.4+11
+20-Aug-2023 09:48:36.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Aug-2023 09:48:36.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79
+20-Aug-2023 09:48:36.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\conf\logging.properties
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79
+20-Aug-2023 09:48:36.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\temp
+20-Aug-2023 09:48:36.349 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-9.0.4\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Amol\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Amol\AppData\Local\Programs\Python\Python311\;C:\db_home\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-19\bin;C:\Program Files\mingw\bin;C:\Program Files\GitHub CLI\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Users\Amol\anaconda3;C:\Users\Amol\anaconda3\Library\mingw-w64\bin;C:\Users\Amol\anaconda3\Library\usr\bin;C:\Users\Amol\anaconda3\Library\bin;C:\Users\Amol\anaconda3\Scripts;C:\Users\Amol\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm 2022.3.3\bin;;C:\Users\Amol\AppData\Roaming\npm;C:\Users\Amol\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Java\jdk-9.0.4\bin;;.]
+20-Aug-2023 09:48:36.642 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Aug-2023 09:48:36.678 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [566] milliseconds
+20-Aug-2023 09:48:36.741 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Aug-2023 09:48:36.741 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.79]
+20-Aug-2023 09:48:36.741 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\docs]
+20-Aug-2023 09:48:37.117 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [119] milliseconds.
+20-Aug-2023 09:48:37.149 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\docs] has finished in [408] ms
+20-Aug-2023 09:48:37.149 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\examples]
+20-Aug-2023 09:48:37.469 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\examples] has finished in [320] ms
+20-Aug-2023 09:48:37.485 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\host-manager]
+20-Aug-2023 09:48:37.534 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\host-manager] has finished in [49] ms
+20-Aug-2023 09:48:37.534 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\manager]
+20-Aug-2023 09:48:37.550 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\manager] has finished in [16] ms
+20-Aug-2023 09:48:37.550 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\ROOT]
+20-Aug-2023 09:48:37.582 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\JAVA FULL STACK\apache-tomcat-9.0.79\apache-tomcat-9.0.79\webapps\ROOT] has finished in [32] ms
+20-Aug-2023 09:48:37.589 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Aug-2023 09:48:37.727 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1037] milliseconds
